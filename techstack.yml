@@ -1,7 +1,8 @@
 repo_name: mallowigi/UserScripts
 report_id: da818713fc0cc99e45970a48b49a75ff
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-19T07:56:36+00:00'
+timestamp: '2024-01-05T08:37:02+00:00'
 requested_by: jerone
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mallowigi/UserScripts
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mallowigi/UserScripts
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mallowigi/UserScripts
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mallowigi/UserScripts/blob/master/_resources/UserScripts/UserScripts.sln
   detection_source: _resources/UserScripts/UserScripts.sln
   last_updated_by: Jeroen van Warmerdam
   last_updated_on: 2017-09-16 15:48:59.000000000 Z
